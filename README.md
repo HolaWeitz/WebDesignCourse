@@ -1,1 +1,1 @@
-# WebDesignCourse
+# WebDesignCourse.github.io
